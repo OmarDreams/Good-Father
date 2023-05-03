@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 20px;
+    padding: 0;
+    background-color: blanchedalmond;
+    background-image: url("images/china.jpg");
+}
+
+h1 {
+    font-size: 33px;
+    font-style: italic;
+}
+
+.paragraph {
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    color: khaki;
+    
+}

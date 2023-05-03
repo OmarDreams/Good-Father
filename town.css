@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 20px;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 33px;
+    font-style: italic;
+}
+
+.paragraph {
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps; 
+}
+
+.photos {
+    height: 220px;
+    width: 220px;
+    display: flex;
+}

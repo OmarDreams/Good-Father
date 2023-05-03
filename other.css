@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 20px;
+    padding: 0;
+    background-color: blanchedalmond;
+    background-image: url("images/technoledge.jpg");
+}
+
+h1 {
+    font-size: 33px;
+    font-style: italic;
+}
+
+.paragraph {
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    
+}
+
+.play {
+    border: solid maroon 1px;
+    border-radius: 10px;
+    margin: 100px;
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+}
+
+
+h1 {
+    font-size: 33px;
+    font-style: italic;
+}
+
+.paragraph {
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps; 
+}
