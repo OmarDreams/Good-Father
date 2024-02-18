@@ -6,7 +6,6 @@ body{
     margin-left: 20px;
     padding: 0;
     background-color: blanchedalmond;
-    background-image: url(images/joker.jpg);
 }
 
 h1 {
@@ -19,4 +18,8 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-variant: small-caps;
     
+}
+
+.vuto {
+    color: red;
 }

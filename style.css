@@ -5,7 +5,7 @@
 body {
     padding: 0;
     margin: 0px;
-
+    background-color:beige;
 }
 
 .main-brand {
@@ -13,8 +13,8 @@ body {
     background-color: #ff0000;
     color: white;
     height: 70px;
-    width: 1270px;
-    padding-left: 350px;
+    width: 500px;
+    padding-left: 50px;
     margin-bottom: 0;
     margin-top: 0;
 }
@@ -33,15 +33,16 @@ body {
 }
 
 .content-name {
-    width: 1350px;
+    width: 500px;
     flex: 1;
     align-items: center;
-    padding-left: 425px;
-    font-size: 25px;
+    padding-left: 25px;
+    font-size: 19px;
     color: #555;
     font-weight: lighter;
     font-style: normal;
-    margin-bottom: 7px;
+    margin-top: 7px;
+    margin-bottom: 14px;
 }
 
 .content-name a {
@@ -107,4 +108,8 @@ body {
 
 .content-name:nth-child(14) {
     background-color: #ffeaa7;
+}
+
+span {
+    color: black;
 }
